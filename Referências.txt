@@ -1,0 +1,4 @@
+favicon.io
+https://fontawesome.com/start
+file:///C:/Users/55229/Documents/TrabalhosJS/Aula04/Portfolio/index.html
+https://unsplash.com/
